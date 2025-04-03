@@ -1,42 +1,42 @@
-Full Name: Keny
-Data Structures in C: 95
+Full Name: John
+Data Structures in C: 89
 Mobile Application Development: 91
 Programming in C#: 92
-Machine Learning Techniques: 89
-Introduction to Blockchain Development: 78
+Machine Learning Techniques: 93
+Introduction to Blockchain Development: 94
 ----------------------------------------
-Full Name: red
-Data Structures in C: 89
-Mobile Application Development: 92
-Programming in C#: 93
-Machine Learning Techniques: 94
-Introduction to Blockchain Development: 79
-----------------------------------------
-Full Name: blue
-Data Structures in C: 81
-Mobile Application Development: 95
-Programming in C#: 89
-Machine Learning Techniques: 82
-Introduction to Blockchain Development: 74
-----------------------------------------
-Full Name: green
-Data Structures in C: 87
-Mobile Application Development: 76
-Programming in C#: 89
-Machine Learning Techniques: 92
+Full Name: Moses
+Data Structures in C: 78
+Mobile Application Development: 87
+Programming in C#: 92
+Machine Learning Techniques: 98
 Introduction to Blockchain Development: 92
 ----------------------------------------
-Full Name: orange
-Data Structures in C: 89
-Mobile Application Development: 91
-Programming in C#: 89
-Machine Learning Techniques: 78
-Introduction to Blockchain Development: 79
+Full Name: Paul
+Data Structures in C: 98
+Mobile Application Development: 83
+Programming in C#: 87
+Machine Learning Techniques: 96
+Introduction to Blockchain Development: 95
 ----------------------------------------
-Full Name: yellow
-Data Structures in C: 89
-Mobile Application Development: 82
-Programming in C#: 79
-Machine Learning Techniques: 75
-Introduction to Blockchain Development: 92
+Full Name: Mike
+Data Structures in C: 98
+Mobile Application Development: 83
+Programming in C#: 87
+Machine Learning Techniques: 95
+Introduction to Blockchain Development: 97
+----------------------------------------
+Full Name: Doe
+Data Structures in C: 90
+Mobile Application Development: 89
+Programming in C#: 98
+Machine Learning Techniques: 99
+Introduction to Blockchain Development: 100
+----------------------------------------
+Full Name: Daniel
+Data Structures in C: 90
+Mobile Application Development: 94
+Programming in C#: 98
+Machine Learning Techniques: 86
+Introduction to Blockchain Development: 84
 ----------------------------------------
